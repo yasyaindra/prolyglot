@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-prolyglot-worker
+# prolyglot-worker
 dist
 dist-ssr
 *.local
