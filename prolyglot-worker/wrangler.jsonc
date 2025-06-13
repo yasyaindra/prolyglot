@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "prolyglot-worker",
-	"main": "index.js",
+	"main": "main.js",
 	"compatibility_date": "2025-06-12",
 	"observability": {
 		"enabled": true
